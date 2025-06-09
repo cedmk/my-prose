@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+---
+
 ## 2025-06-04
 ### Added 
 - Initial project structure based on Maven
@@ -21,3 +23,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Deleted 
 - N/A
 
+## 2025-06-09
+### Added
+- License Header to source code
