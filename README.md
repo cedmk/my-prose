@@ -8,5 +8,5 @@ As this project was created for academic purposes, external contributions are no
 and part of the given task.
 
 ## Licence
-GNU General Public License v3.0 
+GNU General Public License v3.0. 
 See the [LICENSE](LICENSE) file for more details
