@@ -9,4 +9,4 @@ and part of the given task.
 
 ## Licence
 GNU General Public License v3.0 
-See the [LICENSE] (LICENSE) file for more details
+See the [LICENSE](LICENSE) file for more details
